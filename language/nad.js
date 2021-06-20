@@ -156,5 +156,5 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
 ◯ *wa.me/6283153406515*
 ──────────────────────────────
-🔰 -----[「 *POWERED BY ${ownerName}* 」]----- 🔰`
+🔰 -----[「 *POWERED BY RIYAN BOTZ* 」]----- 🔰`
 }

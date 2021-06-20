@@ -137,10 +137,10 @@ exports.iklan = (botName, ownerNumbers, ownerName) => {
 return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
-◯ *SEWA : 25K/GRUP (BULAN)*
-◯ *BUAT : 100K (BISA JADI OWNER)*
+◯ *SEWA : 10K/GRUP (BULAN)*
+◯ *BUAT : 70K (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
-◯ *OVO, GOPAY, DANA, PULSA+10K*
+◯ *GOPAY,PULSA+10K*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
@@ -154,7 +154,7 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/${ownerNumbers}*
+◯ *wa.me/6283153406515*
 ──────────────────────────────
 🔰 -----[「 *POWERED BY ${ownerName}* 」]----- 🔰`
 }

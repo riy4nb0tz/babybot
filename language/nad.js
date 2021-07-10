@@ -125,8 +125,7 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 083153406515
-Gopay : 083153406515
+Dana : 081216733250
 
 Donasi supaya bot terus update & Aktif`
 }
@@ -136,24 +135,17 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
 ◯ *SEWA : 10K/GRUP (BULAN)*
-◯ *SEWA : 20K/GRUP (PERMANEN)*
-◯ *BUAT : 70K (BISA JADI OWNER)*
+◯ *SEWA : 15K/GRUP (PERMANEN)*
 ◯ *PEMBAYARAN BISA MELALUI :*
 ◯ *GOPAY,PULSA+10K*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
 ◯ *2. BISA MENGGUNAKAN FITUR PREMIUM*
-◯ *KEUNTUNGAN BUAT BOT :*
-◯ *1. BISA MENJADI OWNER BOT SENDIRI*
-◯ *2. BISA MENGGANTI NAMA BOT SENDIRI*
-◯ *3. BISA MEMBAWA BOT KE GROUP*
-◯ *4. BISA MENGGUNAKAN COMMAND OWNER*
-◯ *5. BISA MENYEWAKAN BOT KEMBALI*
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/6283153406515*
+◯ *wa.me/6281216733250*
 ──────────────────────────────
-🔰 -----[「 *POWERED BY RIYAN BOTZ* 」]----- 🔰`
+🔰 -----[「 *POWERED BY ARD BOTZ* 」]----- 🔰`
 }
